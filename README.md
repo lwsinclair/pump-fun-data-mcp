@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/jun85664396-pump-fun-data-mcp-badge.png)](https://mseep.ai/app/jun85664396-pump-fun-data-mcp)
+
 # Pump Fun Data MCP Server
 [![smithery badge](https://smithery.ai/badge/@jun85664396/pump-fun-data-mcp)](https://smithery.ai/server/@jun85664396/pump-fun-data-mcp)
 
